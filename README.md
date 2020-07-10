@@ -12,8 +12,8 @@ I am a software engineer, and here are quick facts :smile:
  
  ## What I talk about
  
- Every once in a while, I get crazy enout to write an article. Ofcourse you can get all the details from the site: 
- [TheGreenCodes](thegreencodes.com)
+ Every once in a while, I get crazy enough to write an article. Ofcourse you can get all the details from the site: 
+ [TheGreenCodes](https://thegreencodes.com/)
  
  It's totally crazy, trust me, I know.
  
