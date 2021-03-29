@@ -22,6 +22,6 @@ I am a software engineer, and here are quick facts :smile:
  You can get me on the following platforms:
  
  - Twitter: https://twitter.com/marvinus_j
- - Personal Site: https://marvinkweyu.thegreencodes.com
+ - Personal Site: https://marvinkweyu.net
  - LinkedIn: www.linkedin.com/in/marvinkweyu
  
