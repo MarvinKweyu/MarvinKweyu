@@ -6,7 +6,7 @@ I am a software engineer, and here are quick facts :smile:
 
  - [ColorDetect](https://colordetect.readthedocs.io/en/latest/colordetect.html)
  - [AssessMe Project](https://assessme-project.herokuapp.com/)
- - [TheShopFront](https://theshopfront.netlify.app/)
+ - [TheShopFront](https://theshopfront.vercel.app/)
  - [Traffic-Analysis](https://traffic-analysis-display.herokuapp.com/?item_for_compare=Year)
  
  Stick around, make a pull, and let's share :rocket:, there's always more to come :construction_worker:
