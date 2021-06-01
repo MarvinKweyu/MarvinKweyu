@@ -11,7 +11,6 @@ I am a software engineer, and here are quick facts :smile:
  
  Stick around, make a pull, and let's share :rocket:, there's always more to come :construction_worker:
  
- ------
  
  ## What I talk about
  
@@ -19,9 +18,7 @@ I am a software engineer, and here are quick facts :smile:
  [TheGreenCodes](https://thegreencodes.com/)
  
  It's totally crazy, trust me, I know.
- 
- -----
- 
+
  ## Let's party
  
  You can get me on the following platforms:
