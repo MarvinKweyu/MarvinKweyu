@@ -11,12 +11,16 @@ I am a software engineer, and here are quick facts :smile:
  
  Stick around, make a pull, and let's share :rocket:, there's always more to come :construction_worker:
  
+ ------
+ 
  ## What I talk about
  
  Every once in a while, I get crazy enough to write an article. Ofcourse you can get all the details from the site: 
  [TheGreenCodes](https://thegreencodes.com/)
  
  It's totally crazy, trust me, I know.
+ 
+ -----
  
  ## Let's party
  
