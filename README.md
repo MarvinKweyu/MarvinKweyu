@@ -9,7 +9,7 @@ I am a software engineer, and here are quick facts :smile:
  - [AssessMe Project](https://assessme-project.herokuapp.com/)
  - [TheShopFront](https://theshopfront.vercel.app/)
  - [Traffic-Analysis](https://traffic-analysis-display.herokuapp.com/?item_for_compare=Year)
- - [BucketList](https://bucket-list-iota.vercel.app/todos)
+ - [BucketList](https://bucket-list-project.vercel.app/todos/)
  
  Stick around, make a pull, and let's share :rocket:, there's always more to come :construction_worker:
  
