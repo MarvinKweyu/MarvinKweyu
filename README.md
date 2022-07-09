@@ -6,7 +6,7 @@ I am a software engineer, and here are quick facts :smile:
 
  - [UrbanDesk](https://exploreurbandesk.com/)
  - [ColorDetect](https://colordetect.readthedocs.io/en/latest/colordetect.html)
- - [AssessMe Project](https://assessme-project.herokuapp.com/)
+ - [AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
  - [TheShopFront](https://theshopfront.marvinkweyu.net/)
  - [FoodExplorer](https://foodexplorer.marvinkweyu.net/)
  - [BucketList](https://bucketlist.marvinkweyu.net)
