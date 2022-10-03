@@ -7,8 +7,8 @@ I am a software engineer, and here are quick facts :smile:
  - [UrbanDesk](https://exploreurbandesk.com/)
  - [ColorDetect](https://colordetect.readthedocs.io/en/latest/colordetect.html)
  - [AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
- - [TheShopFront](https://theshopfront.marvinkweyu.net/)
  - [StockTrader](https://github.com/MarvinKweyu/stock-trader)
+ - [TheShopFront](https://theshopfront.marvinkweyu.net/)
  - [SaasKit](https://sass-kit.netlify.app/)
  - [BucketList](https://bucketlist.marvinkweyu.net)
  
