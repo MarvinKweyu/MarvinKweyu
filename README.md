@@ -8,6 +8,7 @@ I am a software engineer, and here are quick facts :smile:
  - [ColorDetect](https://colordetect.readthedocs.io/en/latest/colordetect.html)
  - [AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
  - [StockTrader](https://github.com/MarvinKweyu/stock-trader)
+ - [CommunityWrites](https://github.com/MarvinKweyu/CommunityWrites)
  - [TheShopFront](https://theshopfront.marvinkweyu.net/)
  - [SaasKit](https://sass-kit.netlify.app/)
  - [BucketList](https://bucketlist.marvinkweyu.net)
