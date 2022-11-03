@@ -1,29 +1,35 @@
-Hey there :wave:, Marvin here
+Hey, Marvin here :wave:
 
-I am a software engineer, and here are quick facts :smile:
+I am a software engineer, and here is a quick overview
 
-## Projects
+## :construction_worker: What I am building
 
  - [UrbanDesk](https://exploreurbandesk.com/)
+ The African literature library collection. An exploration into African works of literature
  - [ColorDetect](https://colordetect.readthedocs.io/en/latest/colordetect.html)
- - [AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
+ Image and color detection and recognition algorithms
+ - [The AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
+ The classroom brought closer.
  - [StockTrader](https://github.com/MarvinKweyu/stock-trader)
+ A stock inventory management system
  - [CommunityWrites](https://github.com/MarvinKweyu/CommunityWrites)
- - [TheShopFront](https://theshopfront.marvinkweyu.net/)
- - [SaasKit](https://sass-kit.netlify.app/)
- - [BucketList](https://bucketlist.marvinkweyu.net)
+ A Community publishing platform.
  
  Stick around, make a pull, and let's share :rocket:, there's always more to come :construction_worker:
  
  
- ## What I talk about
+ ## :speaker: What I talk about
  
- Every once in a while, I get crazy enough to write an article. You can get all the details from the site: 
+ Conversation on scalability, architecture, technopreneurship and health of the developer at heart
  [TheGreenCodes](https://thegreencodes.com/)
  
- It's totally crazy, trust me, I know.
+1. [Software Architecture](https://thegreencodes.com/series/architectural-patterns)
+2. [Scalability](https://thegreencodes.com/going-enterprise-and-its-aftermath)
+3. [Technopreneurship](https://thegreencodes.com/series/the-entrepreneur)
+4. [Health Digest](https://thegreencodes.com/series/health-digest)
+ 
 
- ## Let's party
+ ## :mailbox_with_mail: Connect with me
  
  You can get me on the following platforms:
  
