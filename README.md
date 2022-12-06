@@ -14,6 +14,8 @@ I am a software engineer, and here is a quick overview
  A stock inventory management system
  - [CommunityWrites](https://github.com/MarvinKweyu/CommunityWrites)
  A Community publishing platform.
+ - [SocialFeed](https://github.com/MarvinKweyu/social-feed)
+ A social image-bookmarking and sharing application 
  - [FoodSecurity](https://github.com/MarvinKweyu/FoodSecurity)
  An analysis of food and areas where food scarcity would have adverse effects in Kenya
  
