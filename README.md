@@ -9,13 +9,15 @@ I am a software engineer, and here is a quick overview
  - [ColorDetect](https://colordetect.readthedocs.io/en/latest/colordetect.html)
  Image and color detection and recognition algorithms
  - [The AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
- The classroom brought closer.
+ The classroom experience brought online.
  - [StockTrader](https://github.com/MarvinKweyu/stock-trader)
  A stock inventory management system
  - [CommunityWrites](https://github.com/MarvinKweyu/CommunityWrites)
  A Community publishing platform.
  - [SocialFeed](https://github.com/MarvinKweyu/social-feed)
  A social image-bookmarking and sharing application 
+ - [MyDuka](https://github.com/MarvinKweyu/myduka)
+ The e-commerce platform I need
  - [FoodSecurity](https://github.com/MarvinKweyu/FoodSecurity)
  An analysis of food and areas where food scarcity would have adverse effects in Kenya
  
