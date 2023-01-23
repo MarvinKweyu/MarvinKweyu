@@ -9,7 +9,9 @@ I am a software engineer, and here is a quick overview
  - [ColorDetect](https://colordetect.readthedocs.io/en/latest/colordetect.html)
  Image and color detection and recognition algorithms
  - [The AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
- The classroom experience brought online.
+ The classroom testing experience brought online.
+ - [Masomo](https://github.com/MarvinKweyu/masomo)
+An e-learning platform. Organise modules, courses and subjects with dynamic content between video and text.
  - [StockTrader](https://github.com/MarvinKweyu/stock-trader)
  A stock inventory management system
  - [CommunityWrites](https://github.com/MarvinKweyu/CommunityWrites)
