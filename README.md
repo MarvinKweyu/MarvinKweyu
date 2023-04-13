@@ -20,8 +20,8 @@ An e-learning platform. Organise modules, courses and subjects with dynamic cont
  A social image-bookmarking and sharing application 
  - [MyDuka](https://github.com/MarvinKweyu/myduka)
  The e-commerce platform I need
- - [FoodSecurity](https://github.com/MarvinKweyu/FoodSecurity)
- An analysis of food and areas where food scarcity would have adverse effects in Kenya
+ - [TambuaShamba](https://github.com/MarvinKweyu/tambua-shamba/)
+ Understanding the health of a farm based on soil organic carbon
  
  Stick around, make a pull, and let's share :rocket:, there's always more to come :construction_worker:
  
