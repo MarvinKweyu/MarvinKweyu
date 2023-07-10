@@ -4,8 +4,8 @@ I am a software engineer, and here is a quick overview
 
 ## :construction_worker: What I am building
 
- - [UrbanLibrary](https://urbanlibrary.marvinkweyu.net)
- The African literature library collection. An exploration into African works of literature
+ - [Urbanlibrary](https://urbanlibrary.marvinkweyu.net)
+ The African literature library collection. An exploration of African works of Literature
  - [ColorDetect](https://colordetect.readthedocs.io/en/latest/colordetect.html)
  Image and color detection and recognition algorithms
  - [The AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
@@ -23,12 +23,12 @@ An e-learning platform. Organise modules, courses and subjects with dynamic cont
  - [TambuaShamba](https://github.com/MarvinKweyu/tambua-shamba/)
  Understanding the health of a farm based on soil organic carbon
  
- Stick around, make a pull, and let's share :rocket:, there's always more to come :construction_worker:
+ Stick around, make a pull, and let's share :rocket: there's always more to come :construction_worker:
  
  
  ## :speaker: What I talk about
  
- Conversation on scalability, architecture, technopreneurship and health of the developer at heart
+ Conversation on scalability, architecture, technopreneurs and health of the developer at heart
  [TheGreenCodes](https://thegreencodes.com/)
  
 1. [Software Architecture](https://thegreencodes.com/series/architectural-patterns)
