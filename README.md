@@ -1,4 +1,6 @@
- :wave: I'm, Marvin, a software engineer cum research scientist, and here is a peek into what I do.
+ ## :wave: I'm Marvin,
+
+ A software engineer cum research scientist, and here is a peek into what I do.
 
 ## :construction_worker: What I am building
 
