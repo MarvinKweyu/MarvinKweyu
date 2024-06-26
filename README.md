@@ -14,8 +14,6 @@
 An e-learning platform. Organise modules, courses and subjects with dynamic content between video and text.
  - [StockTrader](https://github.com/MarvinKweyu/stock-trader)
  A stock inventory management system
- - [CommunityWrites](https://github.com/MarvinKweyu/CommunityWrites)
- A Community publishing platform.
  - [SocialFeed](https://github.com/MarvinKweyu/social-feed)
  A social image-bookmarking and sharing application 
  - [MyDuka](https://github.com/MarvinKweyu/myduka)
