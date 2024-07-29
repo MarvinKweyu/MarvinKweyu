@@ -33,7 +33,10 @@ An e-learning platform. Organise modules, courses and subjects with dynamic cont
 2. [Scalability](https://thegreencodes.com/going-enterprise-and-its-aftermath)
 3. [Technopreneurship](https://thegreencodes.com/series/the-entrepreneur)
 4. [Health Digest](https://thegreencodes.com/series/health-digest)
- 
+
+## I am currently working on:
+[Statistical Methods](https://marvin-kweyu.gitbook.io/statistical-methods)
+> A guide to statistical computing and the math used in data science.
 
  ## :mailbox_with_mail: Connect with me
  
