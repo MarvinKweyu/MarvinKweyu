@@ -4,22 +4,21 @@
 
 ## :construction_worker: What I am building
 
- - [Urbanlibrary](https://urbanlibrary.marvinkweyu.net)
- The African literature library collection. An exploration of African works of Literature
  - [ColorDetect](https://colordetect.readthedocs.io/en/latest/colordetect.html)
  Image and color detection and recognition algorithms
  - [The AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
  The classroom testing experience brought online.
  - [Masomo](https://github.com/MarvinKweyu/masomo)
 An e-learning platform. Organise modules, courses and subjects with dynamic content between video and text.
+- [TambuaShamba](https://github.com/MarvinKweyu/tambua-shamba/)
+ Understanding the health of a farm based on soil organic carbon
  - [StockTrader](https://github.com/MarvinKweyu/stock-trader)
  A stock inventory management system
  - [SocialFeed](https://github.com/MarvinKweyu/social-feed)
  A social image-bookmarking and sharing application 
  - [MyDuka](https://github.com/MarvinKweyu/myduka)
  The e-commerce platform I need
- - [TambuaShamba](https://github.com/MarvinKweyu/tambua-shamba/)
- Understanding the health of a farm based on soil organic carbon
+ 
  
  Stick around, make a pull, and let's share :rocket: there's always more to come :construction_worker:
  
