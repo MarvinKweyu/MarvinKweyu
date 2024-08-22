@@ -1,26 +1,26 @@
  ## :wave: I'm Marvin,
 
- A software engineer cum research scientist, and here is a peek into what I do.
+ A research scientist with a background in software engineering. Here is a peek into what I do.
 
 ## :construction_worker: What I am building
 
- - [ColorDetect](https://colordetect.readthedocs.io/en/latest/colordetect.html)
+- [ColorDetect](https://pypi.org/project/ColorDetect/)
  Image and color detection and recognition algorithms
- - [The AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
- The classroom testing experience brought online.
- - [Masomo](https://github.com/MarvinKweyu/masomo)
-An e-learning platform. Organise modules, courses and subjects with dynamic content between video and text.
 - [TambuaShamba](https://github.com/MarvinKweyu/tambua-shamba/)
- Understanding the health of a farm based on soil organic carbon
- - [StockTrader](https://github.com/MarvinKweyu/stock-trader)
- A stock inventory management system
+ A geospatial informatics solution to monitor soil organic carbon in Kenya.
+ - [Masomo](https://github.com/MarvinKweyu/masomo)
+ An e-learning platform that helps instructors organize course content and modules in a classroom setting
+- [The AssessMe Project](https://github.com/MarvinKweyu/AssessMe)
+   Online course assessment to support Masomo.
+ - [Moneyup](https://github.com/MarvinKweyu/moneyup)
+   A local-first cross-platform invoice management system.
  - [SocialFeed](https://github.com/MarvinKweyu/social-feed)
  A social image-bookmarking and sharing application 
- - [MyDuka](https://github.com/MarvinKweyu/myduka)
- The e-commerce platform I need
+ - [Marastore](https://github.com/MarvinKweyu/marastore)
+ The e-commerce store for backpackers.
  
  
- Stick around, make a pull, and let's share :rocket: there's always more to come :construction_worker:
+ Feel free to explore, fork, and contribute! :rocket: There’s always something new in the works.
  
  
  ## :speaker: What I talk about
