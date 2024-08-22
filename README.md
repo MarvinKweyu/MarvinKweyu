@@ -34,7 +34,7 @@ An e-learning platform. Organise modules, courses and subjects with dynamic cont
 4. [Health Digest](https://thegreencodes.com/series/health-digest)
 
 ## I am currently working on:
-[Statistical Methods](https://marvin-kweyu.gitbook.io/statistical-methods)
+[Statistical Methods](https://statisticalmethods.marvinkweyu.net/)
 > A guide to statistical computing and the math used in data science.
 
  ## :mailbox_with_mail: Connect with me
