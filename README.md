@@ -34,7 +34,7 @@ I’m particularly interested in:
 I write and speak about these topics at [TheGreenCodes](https://thegreencodes.com/)
  
 1. [Software Architecture](https://thegreencodes.com/series/architectural-patterns)
-2. [Scalability](https://thegreencodes.com/going-enterprise-and-its-aftermath)
+2. [Scalability](https://www.marvinkweyu.net/indulge/going_enterprise_and_its_aftermath)
 3. [Technopreneurship](https://thegreencodes.com/series/the-entrepreneur)
 4. [Health Digest](https://thegreencodes.com/series/health-digest)
 
